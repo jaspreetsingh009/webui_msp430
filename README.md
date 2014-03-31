@@ -32,7 +32,7 @@ The server will run on port 8080 (you can change this in the server.js file if r
 <b>Run server</b> &nbsp;:&nbsp;&nbsp;  node index.html  (first cd to your project directory) <br>
 <b>locatunnel</b> &nbsp;&nbsp;:&nbsp;&nbsp;  lt --port 8080
 
-The localtunnel will generate a subdomain for you and you can use that to access you website anywhere.
+The localtunnel will generate a subdomain for you and you can use that to access your website anywhere.
 
 <b>References: <br></b>
 <b>1.</b> Node beginner book : http://www.nodebeginner.org/ <br>
