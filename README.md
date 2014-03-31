@@ -1,7 +1,8 @@
 Web UI for MSP430
 =================
 
-The web interface is created used Node.js. You will need "serialport" and "socket.io" modules to make this work.
+![alt tag](http://s18.postimg.org/wtonb66xl/img.png)
+The web interface is created using Node.js. You will need "serialport" and "socket.io" modules to make this work. You also need to upload the launchpad code to a MSP430FR5739 launchpad (a.k.a fraunchpad)
 
 <b>Procedure: (on ubuntu)</b>
 
