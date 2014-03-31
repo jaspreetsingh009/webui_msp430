@@ -221,7 +221,7 @@ int main(void)
 			UART_puts("Z");
 			UART_puts("\n");
 
-			__delay_cycles(1500000);
+			__delay_cycles(1000000);
 		}
 	}
 }
