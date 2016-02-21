@@ -17,7 +17,7 @@ The web interface is created using Node.js. You will need "serialport" and "sock
 
 <b>3. Install the aforementioned modules (first "cd" to you project directory)</b> <br>
 &nbsp;&nbsp;&nbsp;&nbsp;npm install serialport  <br>
-&nbsp;&nbsp;&nbsp;&nbsp;npm install socket.io  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;npm install socket.io @0.9.14  <br>
 
 These modules will be installed in "node_modules" folder in your current directory. Now, i will recommend installing "localtunnel" which will allow you to source your localhost to a webpage (intranet to internet).
 
